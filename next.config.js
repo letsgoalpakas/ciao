@@ -1,3 +1,3 @@
-exports a = {
+exports {
 target: ‘serverless’,
 };

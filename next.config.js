@@ -1,5 +1,3 @@
-exports const a = {
+exports a = {
 target: ‘serverless’,
 };
-
-export default a;
